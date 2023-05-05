@@ -14,6 +14,7 @@
   padding: var(--dl-space-space-threeunits);
   position: relative;
   max-width: 100%;
+  height: 5vh;
   align-self: flex-end;
   align-items: center;
   justify-content: space-between;
@@ -40,11 +41,11 @@
 }
 
 .home-container1 {
-  top: 60px;
   right: 94px;
   width: 424px;
-  height: 25.296875px;
+  height: 5vh;
   display: flex;
+  margin-top: 1rem;
   position: absolute;
   align-items: center;
   justify-content: space-between;
@@ -137,7 +138,7 @@
 
 .home-image {
   width: 100%;
-  height: 100%;
+  height: 95vh;
   object-fit: cover;
 }
 
@@ -238,7 +239,7 @@
 
 .home-image7 {
   flex: 2;
-  width: 800px;
+  width: 600px;
   height: 600px;
   align-self: stretch;
   object-fit: cover;
