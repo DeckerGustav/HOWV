@@ -230,7 +230,7 @@
 .home-header {
   color: rgb(255, 255, 255);
   width: 967px;
-  font-size: 90px;
+  font-size: 60px;
   max-width: 100%;
   font-style: normal;
   text-align: center;
@@ -241,7 +241,7 @@
 .home-headerr {
   color: rgb(255, 255, 255);
   width: 967px;
-  font-size: 90px;
+  font-size: 60px;
   max-width: 100%;
   font-style: normal;
   text-align: center;
@@ -391,7 +391,7 @@
   align-self: center;
   margin: 1px;
   border-color: rgba(0, 0, 0, 0);
-  background-color: #ffffff;
+  background-color: #dadadada;
 }
 
 .home-textinput1 {
@@ -401,7 +401,7 @@
   align-self: center;
   margin: 1px;
   border-color: rgba(0, 0, 0, 0);
-  background-color: #ffffff;
+  background-color: #dadadada;
 }
 
 .home-textinput2 {
@@ -411,7 +411,7 @@
   align-self: center;
   margin: 1px;
   border-color: rgba(0, 0, 0, 0);
-  background-color: #ffffff;
+  background-color: #dadadada;
 }
 
 .home-button1 {
@@ -480,21 +480,21 @@
 }
 
 .home-heading3 {
-  color: rgb(255, 255, 255);
+  color: #dadadada;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
 }
 
 .home-heading4 {
-  color: rgb(255, 255, 255);
+  color: #dadadada;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
 }
 
 .home-heading5 {
-  color: rgb(255, 255, 255);
+  color: #dadadada;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
