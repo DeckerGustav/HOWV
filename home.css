@@ -306,6 +306,7 @@
   flex: 0 0 auto;
   width: auto;
   height: 1218px;
+  margin-top: -30rem;
   display: flex;
   align-items: flex-start;
   margin-left: var(--dl-space-space-fourunits);
