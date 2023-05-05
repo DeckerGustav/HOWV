@@ -316,8 +316,8 @@
 
 .home-image1 {
   flex: 2;
-  width: 815px;
-  height: 750px;
+  width: 700px;
+  height: 700px;
   align-self: stretch;
   object-fit: cover;
 }
