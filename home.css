@@ -431,7 +431,16 @@
   margin-bottom: 5rem;
 }
 
-.carousel-inner {
-  max-width: 600px;
-  max-height: 800px;
+.swiper-slide img {
+  display: block;
+  width: 600px !important;
+  height: 800px !important;
+  object-fit: cover;
+}
+
+.swiper-slide-active {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
